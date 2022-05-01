@@ -1,0 +1,120 @@
+﻿@model IEnumerable<CarroCompra1.Models.Articulo>
+
+@{
+    ViewBag.Title = "Todos";
+}
+
+<h2>Lista de artículos</h2>
+
+<p>
+    @Html.ActionLink("Nuevo", "Crear")
+</p>
+<table class="table table-bordered table-striped table-hover js-basic-example dataTable text-nowrap" id="Table">
+    <tr>
+        <th>
+            Código
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Estatus
+        </th>
+        <th>
+            Empaque
+        </th>
+        <th>
+            Unidad de medida
+        </th>
+        <th>
+            % ISV
+        </th>
+        <th>
+            Peso
+        </th>
+        <th>
+            Descripción
+        </th>
+        <th>
+            Categoria
+        </th>
+        <th>
+            Marca
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CODIGO_DE_ARTICULO)
+            </td>
+            <td>
+                @item.NOMBRE_DEL_ARTICULO.Trim()
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ARTICULO_ESTATUS)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CODIGO_DE_EMPAQUE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CONTENIDO_DE_PRESENTACION)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PORCENTAJE_IMPUESTO)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PESO)
+            </td>
+            <td>
+                @item.DESCRIPCION.Trim()
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CODIGO_CATEGORIA_ONLINE)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CODIGO_MARCA_ONLINE)
+            </td>
+            <td>
+                <a href="@Url.Action("Editar", new { id = item.CODIGO_DE_ARTICULO.Trim()}) " class="btn btn-xs btn-default waves-effect"><span class="glyphicon glyphicon-pencil"></span></a>
+                <a href="@Url.Action("Detalle", new { id = item.CODIGO_DE_ARTICULO.Trim()}) " class="btn btn-xs btn-default waves-effect"><span class="glyphicon glyphicon-arrow-right"></span></a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+@section Scripts {
+
+    <script src="/Scripts/jquery-datatable/jquery.dataTables.js"></script>
+
+    <script>
+
+        $('#Table').dataTable({
+            "language": {
+                "lengthMenu": "Mostrar _MENU_ registros por página",
+                "zeroRecords": "No hay registros para mostrar",
+                "info": "Mostrando de _START_ a _END_ de _TOTAL_ registros",
+                "infoEmpty": "No hay registros disponibles",
+                "infoFiltered": "(Filtrando un total de _MAX_  registros)",
+                "loadingRecords": "Cargando...",
+                "processing": "Procesando...",
+                "search": "Busqueda:",
+                "zeroRecords": "No hay registros",
+                "paginate": {
+                    "first": "Primero",
+                    "last": "Ultimo",
+                    "next": "Siguiente",
+                    "previous": "Anterior"
+                }
+            },
+            "iDisplayLength": 100
+        });
+
+    </script>
+}

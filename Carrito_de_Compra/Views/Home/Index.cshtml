@@ -1,0 +1,22 @@
+﻿@model IEnumerable<CarroCompra1.Models.Articulo>
+
+@{
+    ViewBag.Title = "ListaArticulo";
+}
+<div class="row clearfix">
+    @foreach (var item in Model)
+    {
+
+        <div class="card col-md-3">
+            <br>
+            <img src="~/Content/Imagenes/Articulos/@item.UrlImagen" alt="img" style="width:100%" class="imagen">
+            <h2>@Html.DisplayFor(modelItem => item.NombreArticulo)</h2>
+            <p class="price">@Html.DisplayFor(modelItem => item.Precio)</p>
+            <p>@Html.DisplayFor(modelItem => item.Descripcion)</p>
+            <a href="/Articulo/Agregar/@item.IdArticulo" class="btn btn-primary btn-lg btn-block">Agregar</a>
+        </div>
+        <div class="col-md-1"></div>
+    }
+</div>
+
+

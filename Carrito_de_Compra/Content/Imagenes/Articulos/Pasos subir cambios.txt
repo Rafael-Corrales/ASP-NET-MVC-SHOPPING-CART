@@ -1,0 +1,18 @@
+SVN Update a la carpeta
+Abrir MatchPoint
+Update
+Seleccionar modelo
+Login
+Rafael.Corrales
+Sin Password 
+ok
+Clic derecho, Update All
+Cerrar Group Model
+Group Model BIT updated successfully
+Guardar
+Cerrar Plex
+Updated
+Model BIT Updated successfully
+Aceptar
+Cerrar MatchPoint
+Tortoise SVN > Repo Browser

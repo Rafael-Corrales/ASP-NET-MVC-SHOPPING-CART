@@ -1,0 +1,124 @@
+﻿@model Carrito_de_Compra.Models.Pedido
+
+@{
+    ViewBag.Title = "Ver";
+}
+
+<h2>Detlle del Pedido</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdPedido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdPedido)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Status.NombreStatus)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status.NombreStatus)
+        </dd>
+
+        <dt>
+            Usuario
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaRealizada)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaRealizada)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Correo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Correo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+    </dl>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-10 col-md-offset-1">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Producto</th>
+                            <th>Cantidad</th>
+                            <th class="text-center">Precio</th>
+                            <th class="text-center">Subtotal</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var i in Model.Detalle)
+                        {
+
+                            <tr>
+                                <td class="col-sm-8 col-md-6">
+                                    <div class="media">
+                                        <img src="~/Content/Imagenes/Articulos/@i.Articulo.UrlImagen" alt="img" style="width: 72px; height: 72px;">
+                                        <div class="media-body">
+                                            <h4 class="media-heading">@i.Articulo.NombreArticulo</h4>
+                                            <h5 class="media-heading"> @i.Articulo.Marca.NombreMarca</h5>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="col-sm-1 col-md-1 text-center"><strong>@i.Cantidad</strong></td>
+                                <td class="col-sm-1 col-md-1 text-center"><strong>@i.Articulo.Precio</strong></td>
+                                <td class="col-sm-1 col-md-1 text-center"><strong>@i.Subtotal</strong></td>
+                            </tr>
+                        }
+
+                        <tr>
+                            <td>   </td>
+                            <td>   </td>
+                            <td class="col-sm-1 col-md-1 text-center"><h5>Subtotal</h5></td>
+                            <td class="col-sm-1 col-md-1 text-center"><h5><strong>@Model.SubTotal</strong></h5></td>
+                        </tr>
+                        <tr>
+                            <td>   </td>
+                            <td>   </td>
+                            <td class="col-sm-1 col-md-1 text-center"><h5>Impuesto</h5></td>
+                            <td class="col-sm-1 col-md-1 text-center"><h5><strong>@Model.Impuesto</strong></h5></td>
+                        </tr>
+                        <tr>
+                            <td>   </td>
+                            <td>   </td>
+                            <td class="col-sm-1 col-md-1 text-center"><h3>Total</h3></td>
+                            <td class="col-sm-1 col-md-1 text-center"><h3><strong> @Model.Total</strong></h3></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

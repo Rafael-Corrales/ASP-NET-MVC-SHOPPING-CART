@@ -1,0 +1,95 @@
+﻿@model CarroCompra1.Models.Articulo
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>Detail</h2>
+
+<div>
+    <h4>Articulo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreArticulo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreArticulo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Caracteristicas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Caracteristicas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrlImagen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrlImagen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdMarca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Marca.NombreMarca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdSubCategoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubCategoria.NombreSubCategoria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StockMinimo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StockMinimo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd>
+            @(Model.Activo ? "Si" : "No")
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdArticulo }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

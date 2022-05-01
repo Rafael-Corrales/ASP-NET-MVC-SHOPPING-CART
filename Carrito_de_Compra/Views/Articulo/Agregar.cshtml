@@ -1,0 +1,102 @@
+﻿@model CarroCompra1.Models.Articulo
+
+@{
+    ViewBag.Title = "Agregar";
+}
+
+<h2>Agregar</h2>
+
+<div>
+    <h4>Articulo</h4>
+    <div class="row">
+        <div class="col-md-6">
+            @using (Html.BeginForm("AgregarAlCarrito", "Articulo", FormMethod.Post))
+            {@Html.AntiForgeryToken() <div class="form-horizontal">
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.IdArticulo)
+                <div class="form-group">
+                    @Html.LabelFor(model => model.NombreArticulo, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.NombreArticulo, new { htmlAttributes = new { @class = "form-control", @disabled = "true" } })
+                        @Html.ValidationMessageFor(model => model.NombreArticulo, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Descripcion, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Descripcion, new { htmlAttributes = new { @class = "form-control", @disabled = "true" } })
+                        @Html.ValidationMessageFor(model => model.Descripcion, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Caracteristicas, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Caracteristicas, new { htmlAttributes = new { @class = "form-control", @disabled = "true" } })
+                        @Html.ValidationMessageFor(model => model.Caracteristicas, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.IdMarca, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("IdMarca", new SelectList(ViewBag.Marcas, "IdMarca", "NombreMarca"), "Seleccione una marca", htmlAttributes: new { @class = "form-control", @disabled = "true" })
+
+                        @Html.ValidationMessageFor(model => model.Marca, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.IdSubCategoria, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("IdSubCategoria", new SelectList(ViewBag.Subcategorias, "IdSubCategoria", "NombreSubCategoria"), "Seleccione una subcategoria", htmlAttributes: new { @class = "form-control", @disabled = "true" })
+
+                        @Html.ValidationMessageFor(model => model.SubCategoria, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Precio, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Precio, new { htmlAttributes = new { @class = "form-control", @disabled = "true" } })
+                        @Html.ValidationMessageFor(model => model.Precio, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-md-2" for="IdPedido">Cantidad</label>
+                    <div class="col-md-10">
+                        <input class="form-control text-box single-line" data-val="true" data-val-number="The field Stock Mínimo must be a number." data-val-required="The Stock Mínimo field is required." id="Cantidad" name="Cantidad" type="number" value="1" />
+                        <span class="field-validation-valid text-danger" data-valmsg-for="IdPedido" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Guardar" class="btn btn-default" />
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+
+
+            
+            <div class="card col-md-5">
+
+                <img src="~/Content/Imagenes/Articulos/@Model.UrlImagen" alt="img" style="width:100%">
+            </div>
+
+
+    </div>
+    <div class="row">
+       <p> @Html.ActionLink("Back to List", "Index")
+        </p>
+    </div>
+</div>
+    <p>
+

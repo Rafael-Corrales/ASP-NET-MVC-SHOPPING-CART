@@ -1,0 +1,48 @@
+﻿@model Carrito_de_Compra.Models.Sucursal
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>Detail</h2>
+
+<div>
+    <h4>Sucursal</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreSucursal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreSucursal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreDireccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreDireccion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IdCiudad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ciudad.NombreCiudad)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd>
+            @(Model.Activo ? "Si" : "No")
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdSucursal }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

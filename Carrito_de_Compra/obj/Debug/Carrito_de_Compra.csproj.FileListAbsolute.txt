@@ -1,0 +1,776 @@
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\Cristina Cano\source\repos\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\Rafael Corrales\Downloads\New folder (2)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\Cristina Cano\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (12)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\SODISA-PC\Downloads\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\Rafael Corrales\Downloads\New folder (11)\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csprojAssemblyReference.cache
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\Cristina Cano\Documents\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll.config
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Carrito_de_Compra.pdb
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.exe.config
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csc.rsp
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.exe.config
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\csi.rsp
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.AppContext.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Console.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.ValueTuple.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.exe.config
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\vbc.rsp
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Helpers.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Mvc.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Optimization.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.Razor.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\System.Web.WebPages.Razor.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Newtonsoft.Json.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Antlr3.Runtime.pdb
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\EntityFramework.SqlServer.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Helpers.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Mvc.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.Razor.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.AssemblyReference.cache
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CoreCompileInputs.cache
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.csproj.CopyComplete
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.dll
+C:\Users\tina_\OneDrive\Escritorio\proyecto\Carrito_de_Compra\Carrito_de_Compra\obj\Debug\Carrito_de_Compra.pdb

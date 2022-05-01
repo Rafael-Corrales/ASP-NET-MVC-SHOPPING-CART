@@ -1,0 +1,38 @@
+﻿@model CarroCompra1.Models.Articulo
+
+@{
+    ViewBag.Title = "Image";
+}
+
+<h2>Image</h2>
+
+<div>
+    <h4>Articulo</h4>
+    <hr />
+    <div class="row">
+        <form action="/Articulo/UploadFile/" method="post" enctype="multipart/form-data">
+            <div class="card col-md-4">
+                @Html.HiddenFor(model => model.IdArticulo)
+                <label for="file">Articulo: @Model.NombreArticulo</label>
+                <br />
+                <br />
+                <img src="~/Content/Imagenes/Articulos/@Model.UrlImagen" alt="img" style="width:100%">
+                <br />
+                <br />
+                <label for="file">Archivo:</label>
+                <input name="file" type="file" class="btn btn-primary m-b-10 m-t--21 waves-effect" accept="image/png, image/gif, image/jpeg">
+                <br />
+                <input type="submit" value="Subir archivo" class="btn btn-primary m-b-10 m-t--21 waves-effect">
+            </div>
+        </form>
+    </div>
+    <div class="row">
+        <br />
+        <p>
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+    </div>
+    </div>
+    <div>
+
+    </div>
