@@ -3,7 +3,9 @@
 🛒 ASP.NET MVC Shopping Cart
 An ASP.NET MVC web application for an online shopping cart system, built using C#, Entity Framework, SQL Server, and Bootstrap for responsive design.
 
+
 🚀 Features
+
 🛍️ Product Listing & Categories – Browse products with filtering options.
 
 🛒 Shopping Cart – Add, update, and remove products.
@@ -15,6 +17,7 @@ An ASP.NET MVC web application for an online shopping cart system, built using C
 📊 Admin Panel – Manage products, categories, and orders.
 
 📦 Order Management – Track orders and view order history.
+
 
 🏗️ Tech Stack
 
